@@ -1,0 +1,13 @@
+Subject: [PATCH] a
+---
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main.py b/main.py
+--- a/main.py	(revision c74a5bd91ee0ce5b86c86ffb1f82654c8081c383)
++++ b/main.py	(revision 66434340b21c82a3a3b13a8f71cecbda4235116d)
+@@ -1,0 +1,1 @@
++print('aasd')
+\ No newline at end of file
